@@ -14,7 +14,6 @@ Code1 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with all wall tempera
 + temp at x=16 or L/2
 + temp at y=32 or L2/2
 + Tec plot files and Excel Export
-+ Fluent Case and Data files
 
 ----------------------------------------------------------------------------------------
 Code2 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with:
@@ -25,7 +24,6 @@ Code2 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with:
 + temp at x=16 or L/2
 + temp at y=32 or L2/2
 + Tec plot files and Excel Export
-+ Fluent Case and Data files
 
 ----------------------------------------------------------------------------------------
 Code3 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with:
@@ -36,7 +34,6 @@ Code3 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with:
 + temp at x=16 or L/2
 + temp at y=32 or L2/2
 + Tec plot files and Excel Export
-+ Fluent Case and Data files
 
 ----------------------------------------------------------------------------------------
 Code4 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with:
@@ -47,6 +44,5 @@ Code4 : Jacobi-Gauss Seidel (Point and Line)-PSOR and LSOR with:
 + temp at x=16 or L/2
 + temp at y=32 or L2/2
 + Tec plot files and Excel Export
-+ Fluent Case and Data files
 
 ----------------------------------------------------------------------------------------
