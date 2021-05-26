@@ -1,7 +1,8 @@
 # 2D-Heat-conduction-problem-with-irregular-boundaries
 2D Heat conduction problem with  irregular boundaries
 Farzad Azizizade
-
+L, L1, L2, alpha, and beta that I used in the report file differ from those in the codes I uploaded here.
+Values in the codes are:
 L=32
 L1=16
 L2=64
